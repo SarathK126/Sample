@@ -1,2 +1,2 @@
 # Sample
-sample repository
+sample repository adding some code
